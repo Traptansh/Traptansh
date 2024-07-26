@@ -1,5 +1,6 @@
 👋 Hi, I’m @Traptansh
-I am Certified Ethical Hacker v12 Certification from EC-Council.
+I am Certified Ethical Hacker 
+I have done CEH v12 Certification from EC-Council.
 I have expertise in Vulnerability Assessment & Penetration Testing (VAPT)
 <!---
 Traptansh/Traptansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
